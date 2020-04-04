@@ -1,3 +1,5 @@
-2020-01-13 19:20:09.293  [Information] - [] - -------- Application start ---------
-2020-01-13 19:20:17.466  [Information] - [] - -------- Application start ---------
-2020-01-13 19:21:41.809  [Information] - [] - -------- Application start ---------
+2020-04-04 16:13:06.592  [Information] - [] - -------- Application start ---------
+2020-04-04 16:16:41.988  [Information] - [] - -------- Application start ---------
+2020-04-04 16:26:57.248  [Information] - [] - -------- Application start ---------
+2020-04-04 16:27:52.620  [Information] - [] - -------- Application start ---------
+2020-04-04 16:29:38.578  [Information] - [] - -------- Application start ---------
