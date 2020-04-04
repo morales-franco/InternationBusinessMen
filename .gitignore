@@ -3,3 +3,11 @@
 ################################################################################
 
 /InternationalBusinessMen/.vs/InternationalBusinessMen/v16
+/InternationalBusinessMen/InternationalBusinessMen.Api/bin/Debug/netcoreapp3.1
+/InternationalBusinessMen/InternationalBusinessMen.Api/obj
+/InternationalBusinessMen/InternationalBusinessMen.Core/bin/Debug/netstandard2.0
+/InternationalBusinessMen/InternationalBusinessMen.Core/obj
+/InternationalBusinessMen/InternationalBusinessMen.Infraestructure/bin/Debug/netstandard2.0
+/InternationalBusinessMen/InternationalBusinessMen.Infraestructure/obj
+/InternationalBusinessMen/InternationalBusinessMen.Test/bin/Debug/netcoreapp3.1
+/InternationalBusinessMen/InternationalBusinessMen.Test/obj

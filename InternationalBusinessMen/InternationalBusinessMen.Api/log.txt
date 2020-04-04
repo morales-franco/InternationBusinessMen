@@ -1,0 +1,3 @@
+2020-01-13 19:20:09.293  [Information] - [] - -------- Application start ---------
+2020-01-13 19:20:17.466  [Information] - [] - -------- Application start ---------
+2020-01-13 19:21:41.809  [Information] - [] - -------- Application start ---------
